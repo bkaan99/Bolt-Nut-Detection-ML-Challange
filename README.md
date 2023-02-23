@@ -1,6 +1,29 @@
 # ML Object Detection and Counting Challange
 ## @Author : Bilge Kaan Gürgen
 
+
+## This Repository File Tree
+---
+```
+.
+└── ML-Challange
+    ├── Prediction
+    │   ├── ObjectTracker
+    │   │   ├── pred.py
+    │   │   ├── sort.py
+    │   │   ├── requirements.txt
+    │   │   └── requirements_gpu.txt
+    │   └── Final_Project_Prediction.ipynb
+    ├── Preprocess
+    │   └── extractor.py
+    ├── readme_media
+    │   ├── Untitled 1.png
+    │   ├── Untitled 2.png
+    │   └── Untitled.png
+    ├── Training
+    │   └── BilgeKaan_Challange_StromaVision.ipynb
+    └── README.md
+```
 ## Başlamadan Önce
 
 ---
